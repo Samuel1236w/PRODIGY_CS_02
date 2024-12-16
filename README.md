@@ -28,10 +28,10 @@ HOW IT WORKS
 
 a.  Encryption
 
-    - Select the option to encrypt an image.
-    - Provide the path to the image file you want to encrypt.
-    - Specify the output path to save the encrypted image.
-    - Enter an encryption key (integer) that will be used to modify the pixel values.
+   - Select the option to encrypt an image.
+   - Provide the path to the image file you want to encrypt.
+   - Specify the output path to save the encrypted image.
+   - Enter an encryption key (integer) that will be used to modify the pixel values.
 
 
 
