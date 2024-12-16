@@ -6,3 +6,13 @@ FEATURES
    	•	Image Encryption: Modify pixel values of an image to produce an encrypted, scrambled version.
 	•	Image Decryption: Reverse the modifications to restore the original image using the same encryption key.
 	•	Key-Based Security: Ensures that only users with the correct key can decrypt the image.
+
+INSTALLATION 
+
+a. Clone the Repository:
+
+   git clone https://github.com/your-username/image-encryption-tool.git
+   cd image-encryption-tool
+
+
+
