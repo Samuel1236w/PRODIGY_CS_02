@@ -33,6 +33,13 @@ a.  Encryption
    - Specify the output path to save the encrypted image.
    - Enter an encryption key (integer) that will be used to modify the pixel values.
 
+b.  Decryption
+
+   - Select the option to decrypt an image.
+   - Provide the path to the encrypted image file.
+   - Specify the output path to save the decrypted image.
+   - Enter the same key used during encryption to restore the original image.
+
 
 
 
