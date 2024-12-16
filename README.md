@@ -40,4 +40,10 @@ b.  Decryption
    - Specify the output path to save the decrypted image.
    - Enter the same key used during encryption to restore the original image.
 
+  NOTE
+
+  - Ensure that the same key is used for both encryption and decryption.
+  - This tool supports image files in formats like JPG and PNG
+
+
 
