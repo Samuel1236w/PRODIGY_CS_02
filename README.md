@@ -14,5 +14,16 @@ a. Clone the Repository:
    git clone https://github.com/your-username/image-encryption-tool.git
    cd image-encryption-tool
 
+b. Install Dependencies:
+   Ensure you have Python installed on your system. Install the required libraries:
+
+    pip install pillow numpy
+
+c. Run the Program:
+   Execute the script to start encrypting or decrypting images:
+
+    python image_encryptor.py
+
+
 
 
